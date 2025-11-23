@@ -4,25 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86c0cf8b-39a1-420c-a17f-d27fd5d224a8" name="Changes" comment="12th nov">
-      <change afterPath="$PROJECT_DIR$/src/Literals/Escape_Sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Literals/Multicomments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Literals/String_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Literals/String_concate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Literals/Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Literals/Strinr_Double_single_Difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Literals/Type_Literls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Literals/User_Input_sum_of_two_numers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Literals/Userinputs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keyword&amp;Identifiers/Dynamically_typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keyword&amp;Identifiers/IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keyword&amp;Identifiers/IQ_BODMAS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keyword&amp;Identifiers/Identified_rule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keyword&amp;Identifiers/Math_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keyword&amp;Identifiers/Multi_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keyword&amp;Identifiers/Multi_variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keyword&amp;Identifiers/Variables_Name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keyword&amp;Identifiers/maths.py" afterDir="false" />
+    <list default="true" id="86c0cf8b-39a1-420c-a17f-d27fd5d224a8" name="Changes" comment="Basic python3">
+      <change afterPath="$PROJECT_DIR$/src/Condition_and_Loops/If_elseif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condition_and_Loops/Loading_Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condition_and_Loops/Login_validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condition_and_Loops/Task - Reponse_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condition_and_Loops/Task-expected_actual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Radius_Program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,19 +60,25 @@
     "Python.IQ_BODMAS.executor": "Run",
     "Python.Identified_rule.executor": "Run",
     "Python.Identifier.executor": "Run",
+    "Python.If_elseif.executor": "Run",
     "Python.Keywords.executor": "Run",
     "Python.LB001_Python_Hello.executor": "Run",
     "Python.LB002_Python_Comments.executor": "Run",
+    "Python.Loading_Time.executor": "Run",
+    "Python.Login_validation.executor": "Run",
     "Python.Math_Function.executor": "Run",
     "Python.Multi_print.executor": "Run",
     "Python.Multi_variable.executor": "Run",
     "Python.Multicomments.executor": "Run",
     "Python.Print.executor": "Run",
     "Python.Print_comment.executor": "Run",
+    "Python.Radius_Program.executor": "Run",
     "Python.String_Conversion.executor": "Run",
     "Python.String_concate.executor": "Run",
     "Python.Strings.executor": "Run",
     "Python.Strinr_Double_single_Difference.executor": "Run",
+    "Python.Task - Reponse_code.executor": "Run",
+    "Python.Task-expected_actual.executor": "Run",
     "Python.Type_Literls.executor": "Run",
     "Python.User_Input_sum_of_two_numers.executor": "Run",
     "Python.Userinputs.executor": "Run",
@@ -93,7 +87,8 @@
     "Python.maths.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -164,12 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1762928350507</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Basic python3">
+      <option name="closed" value="true" />
+      <created>1763712057933</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763712057934</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add file" />
     <MESSAGE value="12th nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="12th nov" />
+    <MESSAGE value="Basic python3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic python3" />
   </component>
 </project>
